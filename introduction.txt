@@ -1,3 +1,5 @@
 my self Gajjalakonda Abhinaya 
 i am form mangalagiri 
 currently i am pursing in 3 year bsc cscs
+
+git pull -- which helps you to get the existing code from repository into your local device
